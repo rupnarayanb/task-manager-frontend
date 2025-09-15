@@ -19,7 +19,7 @@ A full-stack task manager built with:
 
 ## Getting Started
 
-### Backend
+### Frontend
 ```bash
 cd task-manager-frontend
 npm install
