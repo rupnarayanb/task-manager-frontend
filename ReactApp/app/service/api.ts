@@ -1,4 +1,5 @@
-const BASE_URL = "http://192.168.1.3:5001/api"
+//const BASE_URL = "http://192.168.1.2:5001/api"
+const BASE_URL = "https://task-manager-backend-ugi1.onrender.com/api"
 
 export async function fetchTasks(){
     const res = await fetch(`${BASE_URL}/task`);
